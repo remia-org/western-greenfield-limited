@@ -27,9 +27,9 @@ export default function Footer() {
           <div className="footer-col">
             <h5>Ventures</h5>
             <ul>
-              <li><Link to="/projects#traxon">Traxon</Link></li>
-              <li><Link to="/projects#firth-bioventis">Firth Bioventis</Link></li>
-              <li><Link to="/projects#biovivax">Biovivax</Link></li>
+              <li><Link to="/projects#traxon">Traxon<sup className="tm">™</sup></Link></li>
+              <li><Link to="/projects#firth-bioventis">Firth Bioventis<sup className="tm">™</sup></Link></li>
+              <li><Link to="/projects#biovivax">Biovivax<sup className="tm">™</sup></Link></li>
             </ul>
           </div>
 

@@ -128,6 +128,9 @@ p { margin: 0 0 1.1em; }
 .nav-cta .btn { padding: 11px 20px; }
 .nav-drawer { display: none; } /* mobile drawer — enabled under the responsive breakpoint */
 
+/* Trademark superscript on venture names */
+.tm { font-size: .42em; vertical-align: super; margin-left: 2px; font-weight: 600; opacity: .62; }
+
 .nav-toggle {
   display: none; justify-self: end; z-index: 130;
   width: 46px; height: 46px; border: 1px solid var(--line); border-radius: var(--radius);

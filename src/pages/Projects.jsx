@@ -20,7 +20,7 @@ export default function Projects() {
               </div>
               <div className="project__body">
                 <div className="project__top">
-                  <h2 className="project__name">Traxon</h2>
+                  <h2 className="project__name">Traxon<sup className="tm">™</sup></h2>
                   <span className="tag tag--trl">Technology</span>
                 </div>
                 <p className="project__desc">
@@ -64,7 +64,7 @@ export default function Projects() {
               </div>
               <div className="project__body">
                 <div className="project__top">
-                  <h2 className="project__name">Firth Bioventis</h2>
+                  <h2 className="project__name">Firth Bioventis<sup className="tm">™</sup></h2>
                   <span className="tag tag--trl">Biotechnology</span>
                 </div>
                 <p className="project__desc">
@@ -105,7 +105,7 @@ export default function Projects() {
               </div>
               <div className="project__body">
                 <div className="project__top">
-                  <h2 className="project__name">Biovivax</h2>
+                  <h2 className="project__name">Biovivax<sup className="tm">™</sup></h2>
                   <span className="tag tag--trl">Biotechnology</span>
                 </div>
                 <p className="project__parent">A Firth Bioventis Project</p>

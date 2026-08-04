@@ -132,7 +132,7 @@ export default function Home() {
               <img src="/assets/img/traxon.png" alt="Traxon — logistics & mobility infrastructure" />
               <div className="pcard__body">
                 <span className="pcard__tag">Technology · TRL 7–8</span>
-                <h3>Traxon</h3>
+                <h3>Traxon<sup className="tm">™</sup></h3>
                 <p>
                   An advanced On-Demand Logistics &amp; Mobility SaaS infrastructure — a neutral,
                   cross-border B2B marketplace for independent transport operators.
@@ -144,7 +144,7 @@ export default function Home() {
               <img src="/assets/img/biovivax.png" alt="Biovivax — bio-preservation R&D" />
               <div className="pcard__body">
                 <span className="pcard__tag">Biotechnology · TRL 1–2</span>
-                <h3>Biovivax</h3>
+                <h3>Biovivax<sup className="tm">™</sup></h3>
                 <p>
                   A bio-preservation venture developing natural, bio-sourced microbial formulations
                   that extend the shelf-life of agricultural produce.
