@@ -57,18 +57,18 @@ export default function Projects() {
               </div>
             </article>
 
-            {/* Firth Bioventis */}
+            {/* Ferth Bioventis */}
             <article className="project project--reverse reveal" id="firth-bioventis">
               <div className="project__media">
-                <img src="/assets/img/firth.png" alt="Firth Bioventis — applied biotechnology R&D" />
+                <img src="/assets/img/firth.png" alt="Ferth Bioventis — applied biotechnology R&D" />
               </div>
               <div className="project__body">
                 <div className="project__top">
-                  <h2 className="project__name">Firth Bioventis<sup className="tm">™</sup></h2>
+                  <h2 className="project__name">Ferth Bioventis<sup className="tm">™</sup></h2>
                   <span className="tag tag--trl">Biotechnology</span>
                 </div>
                 <p className="project__desc">
-                  <strong>Firth Bioventis</strong> is a DeepTech, IP-driven Applied Biotechnology &amp;
+                  <strong>Ferth Bioventis</strong> is a DeepTech, IP-driven Applied Biotechnology &amp;
                   Microbiology R&amp;D platform. The project is dedicated to developing innovative,
                   bio-sourced formulations and microbial technologies designed for the agricultural,
                   agrifood, and environmental sectors.
@@ -86,7 +86,7 @@ export default function Projects() {
                     <dt>Partnership</dt>
                     <dd>
                       <span className="tag tag--closed tag--dot">Not Currently Open to External Partnerships</span>
-                      <br />Firth Bioventis is managed exclusively as an internal Venture Studio R&amp;D
+                      <br />Ferth Bioventis is managed exclusively as an internal Venture Studio R&amp;D
                       incubator.
                     </dd>
                   </div>
@@ -108,10 +108,10 @@ export default function Projects() {
                   <h2 className="project__name">Biovivax<sup className="tm">™</sup></h2>
                   <span className="tag tag--trl">Biotechnology</span>
                 </div>
-                <p className="project__parent">A Firth Bioventis Project</p>
+                <p className="project__parent">A Ferth Bioventis Project</p>
                 <p className="project__desc">
                   <strong>Biovivax</strong> is an innovative bio-preservation project developed under
-                  the Firth Bioventis biotechnology platform. It is dedicated to creating natural,
+                  the Ferth Bioventis biotechnology platform. It is dedicated to creating natural,
                   bio-sourced microbial formulations that extend the shelf-life and freshness of
                   agricultural produce, reducing post-harvest losses without the use of synthetic
                   chemical additives.
