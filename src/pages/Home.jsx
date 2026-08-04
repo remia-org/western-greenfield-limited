@@ -129,7 +129,7 @@ export default function Home() {
           </div>
           <div className="grid grid-2">
             <Link className="pcard reveal" to="/projects#traxon">
-              <img src="/assets/img/image4.jpeg" alt="Traxon — logistics & mobility infrastructure" />
+              <img src="/assets/img/traxon.png" alt="Traxon — logistics & mobility infrastructure" />
               <div className="pcard__body">
                 <span className="pcard__tag">Technology · TRL 7–8</span>
                 <h3>Traxon</h3>
@@ -141,7 +141,7 @@ export default function Home() {
               </div>
             </Link>
             <Link className="pcard reveal" to="/projects#biovivax">
-              <img src="/assets/img/image3.jpeg" alt="Biovivax — bio-preservation R&D" />
+              <img src="/assets/img/biovivax.png" alt="Biovivax — bio-preservation R&D" />
               <div className="pcard__body">
                 <span className="pcard__tag">Biotechnology · TRL 1–2</span>
                 <h3>Biovivax</h3>

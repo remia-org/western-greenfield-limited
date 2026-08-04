@@ -16,7 +16,7 @@ export default function Projects() {
             {/* Traxon */}
             <article className="project reveal" id="traxon">
               <div className="project__media">
-                <img src="/assets/img/image4.jpeg" alt="Traxon — logistics and mobility infrastructure" />
+                <img src="/assets/img/traxon.png" alt="Traxon — logistics and mobility infrastructure" />
               </div>
               <div className="project__body">
                 <div className="project__top">
@@ -59,8 +59,8 @@ export default function Projects() {
 
             {/* Firth Bioventis */}
             <article className="project project--reverse reveal" id="firth-bioventis">
-              <div className="project__media is-abstract">
-                <img src="/assets/img/image2.jpeg" alt="Firth Bioventis — applied biotechnology R&D" />
+              <div className="project__media">
+                <img src="/assets/img/firth.png" alt="Firth Bioventis — applied biotechnology R&D" />
               </div>
               <div className="project__body">
                 <div className="project__top">
@@ -101,7 +101,7 @@ export default function Projects() {
             {/* Biovivax */}
             <article className="project reveal" id="biovivax">
               <div className="project__media">
-                <img src="/assets/img/image3.jpeg" alt="Biovivax — bio-preservation formulations" />
+                <img src="/assets/img/biovivax.png" alt="Biovivax — bio-preservation formulations" />
               </div>
               <div className="project__body">
                 <div className="project__top">
