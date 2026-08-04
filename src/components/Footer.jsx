@@ -53,6 +53,7 @@ export default function Footer() {
           <div className="footer-legal">
             <Link to="/terms">Terms &amp; Conditions</Link>
             <Link to="/terms#data">Privacy Policy</Link>
+            <a href="https://digitupcompany.com/" target="_blank" rel="noopener noreferrer">Created by Digitup Company</a>
           </div>
         </div>
       </div>
