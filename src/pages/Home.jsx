@@ -128,11 +128,11 @@ export default function Home() {
             </p>
           </div>
           <div className="grid grid-2">
-            <Link className="pcard reveal" to="/projects#traxon">
-              <img src="/assets/img/traxon.png" alt="Traxon — logistics & mobility infrastructure" />
+            <Link className="pcard reveal" to="/projects#tr-x">
+              <img src="/assets/img/traxon.png" alt="Project TR-X — logistics & mobility infrastructure" />
               <div className="pcard__body">
                 <span className="pcard__tag">Technology · TRL 7–8</span>
-                <h3>Traxon<sup className="tm">™</sup></h3>
+                <h3>Project TR-X<sup className="tm">™</sup></h3>
                 <p>
                   An advanced On-Demand Logistics &amp; Mobility SaaS infrastructure — a neutral,
                   cross-border B2B marketplace for independent transport operators.

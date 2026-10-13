@@ -13,19 +13,19 @@ export default function Projects() {
         <div className="container">
           <div className="projects">
 
-            {/* Traxon */}
-            <article className="project reveal" id="traxon">
+            {/* Project TR-X */}
+            <article className="project reveal" id="tr-x">
               <div className="project__media">
-                <img src="/assets/img/traxon.png" alt="Traxon — logistics and mobility infrastructure" />
+                <img src="/assets/img/traxon.png" alt="Project TR-X — logistics and mobility infrastructure" />
               </div>
               <div className="project__body">
                 <div className="project__top">
-                  <h2 className="project__name">Traxon<sup className="tm">™</sup></h2>
+                  <h2 className="project__name">Project TR-X<sup className="tm">™</sup></h2>
                   <span className="tag tag--trl">Technology</span>
                 </div>
                 <p className="project__desc">
-                  <strong>Traxon</strong> is an advanced On-Demand Logistics &amp; Mobility SaaS
-                  Infrastructure. Designed as a cross-border, B2B digital marketplace, Traxon provides
+                  <strong>Project TR-X</strong> is an advanced On-Demand Logistics &amp; Mobility SaaS
+                  Infrastructure. Designed as a cross-border, B2B digital marketplace, Project TR-X provides
                   independent couriers, transport operators, and roadside assistance providers with
                   software tools to manage their commercial activities. The platform operates as a
                   neutral software infrastructure, guaranteeing complete operational, pricing, and
